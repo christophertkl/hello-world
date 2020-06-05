@@ -1,8 +1,7 @@
 # hello-world
-Another HelloWorld repository created by a clueless fool
+Another HelloWorld repository created by a clueless fool. This one has returned to GitHub in the midst of a worldwide lockdown, due to COVID-19. On a journey for the following:
+- Database creation with R
+- CS50 with C
+- Web development course with Javascript
 
-Hey,
-
-Hope this message gets to you. I'm being held captive in a room in Belfast at the moment. Help me.
-
-Just joking. Merry Christmas!
+The world is changing. Change with it.
